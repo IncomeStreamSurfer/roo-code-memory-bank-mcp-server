@@ -2,6 +2,10 @@
 
 This project implements the core functionality of the [Roo Code Memory Bank](https://github.com/GreatScottyMac/roo-code-memory-bank) system as a Model Context Protocol (MCP) server. It allows AI assistants to maintain project context across sessions by interacting with a file-based memory bank using structured MCP tools.
 
+<a href="https://glama.ai/mcp/servers/@IncomeStreamSurfer/roo-code-memory-bank-mcp-server">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@IncomeStreamSurfer/roo-code-memory-bank-mcp-server/badge" alt="Roo Code Memory Bank Server MCP server" />
+</a>
+
 ## Features
 
 This MCP server provides the following tools:
