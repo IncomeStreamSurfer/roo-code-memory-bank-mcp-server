@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/incomestreamsurfer-roo-code-memory-bank-mcp-server-badge.png)](https://mseep.ai/app/incomestreamsurfer-roo-code-memory-bank-mcp-server)
+
 # Roo Code Memory Bank MCP Server
 
 This project implements the core functionality of the [Roo Code Memory Bank](https://github.com/GreatScottyMac/roo-code-memory-bank) system as a Model Context Protocol (MCP) server. It allows AI assistants to maintain project context across sessions by interacting with a file-based memory bank using structured MCP tools.
